@@ -1,1 +1,6 @@
 
+Project Name: CaseStudy1
+Purpose: Understand and analyze world GDP by country and Income group. Formulate output using charts.
+Data: 2 csv files present in DATA folder.
+Code: R,RMD,HTML files present in CODE folder.
+Details: The project uses the data of countries across the globe and its GDP for analysis and categorization of Income group.
