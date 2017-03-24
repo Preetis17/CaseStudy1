@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<strong>Project structure:</strong>
+<strong>Project structure:</strong><br>
 CaseStudy1<br>
 <p>    \Data<br>
 <p>    \Code<br>
