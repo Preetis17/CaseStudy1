@@ -1,8 +1,8 @@
 <HTML>
-<HEADER>Project Name: CaseStudy1</HEADER>
+<title><strong>Project Name: CaseStudy1</strong></title>
 
-<strong>Purpose:</strong> Understand and analyze world GDP by country and Income group. Formulate output using charts.
-<strong>Data:</strong> 2 csv files present in DATA folder.
+<strong>Purpose:</strong> Understand and analyze world GDP by country and Income group. Formulate output using charts.<br>
+<strong>Data:</strong> 2 csv files present in DATA folder.<br>
 <strong>Code:</strong> R ,RMD,HTML files present in CODE folder.
 <br>
 <br>
