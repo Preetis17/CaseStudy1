@@ -1,5 +1,5 @@
 <HTML>
-<title><strong>Project Name: CaseStudy1</strong></title>
+<cite><strong>Project Name: CaseStudy1</strong></cite>
 
 <strong>Purpose:</strong> Understand and analyze world GDP by country and Income group. Formulate output using charts.<br>
 <strong>Data:</strong> 2 csv files present in DATA folder.<br>
