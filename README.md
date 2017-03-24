@@ -1,2 +1,5 @@
-# CaseStudy1
-Week 7 homework - Case study
+<HTML>
+<B> READ ME <P>
+
+
+</HTML>
