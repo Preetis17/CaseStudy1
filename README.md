@@ -9,8 +9,8 @@
 
 <strong>Project structure:</strong><br>
 CaseStudy1<br>
-<p>    \Data<br>
-<p>    \Code<br>
+\Data<br>
+\Code<br>
 
 <strong>Description:</strong>
 The purpose of this project is read, merge, clean and analyze country GDP values and make inferences on it. The input files contain around 198 countries across globe. The input file also contains income category for these countries which we will use to dice. The GDP and income group charts are presented to visually represent information.
